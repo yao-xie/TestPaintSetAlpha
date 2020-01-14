@@ -4,8 +4,8 @@
 3.Right click SetAlphaBenchmark.kt and select "Profile 'SetAlphaBenchmark'".  
 4.See the results like below in 'Run' tab.
 
->>benchmark:    16,179,917 ns SetAlphaBenchmark.drawBitmap  
->>benchmark:       843,750 ns SetAlphaBenchmark.setAlpha  
+>benchmark:    16,179,917 ns SetAlphaBenchmark.drawBitmap  
+>benchmark:       843,750 ns SetAlphaBenchmark.setAlpha  
 
 Please also refer to the link below to start your own benchmark:  
 https://developer.android.com/studio/profile/benchmark  
